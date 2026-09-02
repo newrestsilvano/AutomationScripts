@@ -242,7 +242,7 @@ Algumas ideias para futuras automações:
 
 ## 📄 Licença
 
-Este projeto pode ser distribuído sob a licença **MIT**.
+Este projeto pode ser distribuído sob a licença GNU General Public License v2.0
 
 Consulte o arquivo `LICENSE` para mais informações.
 
