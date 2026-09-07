@@ -1,0 +1,7 @@
+import qrcode
+ 
+senha = " user e a senha vai ficar aqui"
+
+senha = qrcode.make(senha)
+
+senha.save("senha.png")
